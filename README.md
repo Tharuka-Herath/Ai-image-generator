@@ -1,3 +1,3 @@
 # Ai-image-generator
 
-practice projrct using node and javascript and API's
+practice project using node and javascript and API's
